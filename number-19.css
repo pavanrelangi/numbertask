@@ -1,0 +1,53 @@
+.timeblock{
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px lightblue;
+    border: 2px solid rgb(100, 128, 138);
+    background-color: lightblue;
+    color: darkred;
+    float: left;
+    margin:20px;
+    padding: 10px;
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    text-align:  center;
+    font-weight: bolder;
+    margin-left: 120px;
+}
+
+.button{
+    width: 70px;
+    margin-top: 20px;
+}
+
+.button1{
+    width: 70px;
+    height: 30px;
+    margin-top: 25px;
+}
+
+.input{
+    width: 50px;
+}
+
+.output{
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(241, 195, 243);
+    border: 2px solid rgb(100, 128, 138);
+    background-color: rgb(240, 209, 243);
+    color: darkred;
+    margin:20px;
+    padding: 10px;
+    box-sizing: border-box;
+    height: 300px;
+    width: 300px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align:  center;
+    font-weight: bolder;
+    margin-top: 200px;
+    margin-left: 300px;
+    
+}
+
